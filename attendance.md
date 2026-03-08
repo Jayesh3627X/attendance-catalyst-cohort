@@ -1,0 +1,2 @@
+Jayesh AIDS B-55
+Description :- the first topic we studied today was linear regression then we moved to gradient decent and vector properties then we studied about numpy then logistic regression and at last we practiced a code in google colab with numpy , scikit and matplot for linear regression.   
